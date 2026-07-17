@@ -1,2 +1,2 @@
-print("hello,python day01")
-print("welcome to my 180-day developer journry")
+print("Hello,Python Day01")
+print("Welcome to my 180-Day Developer Journey")
