@@ -70,12 +70,3 @@ print("subtraction:",x-y)
 print("multipication:",x*y)
 print("dvisoin:",x/y)
 
-
-
-
-
-
-
-
- 
-
