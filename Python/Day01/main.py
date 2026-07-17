@@ -1,2 +1,7 @@
 print("Hello,Python Day01")
 print("Welcome to my 180-Day Developer Journey")
+print("My name is Vishal Singh")
+print("I am from Gorakhpur")
+print("I am pursuing B.tsch ")
+print(67+23)
+print(22*2)
