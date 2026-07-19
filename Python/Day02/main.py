@@ -52,4 +52,3 @@ print(type(str1))
 g = 5
 g = str(g)
 print(type(g)) 
-

@@ -129,12 +129,6 @@ else:
     theyear="not leap year"
 print(theyear)
 
-#10 WAP a program to check whether a character is a vowel or a consonant.
-str=input("enter any character:")
-if(str=="a","e","i","o","u"):
-    print("this is vowel")
-else:
-    print("this is consonant")
 
 
 
